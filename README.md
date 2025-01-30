@@ -90,14 +90,14 @@ java -jar target/nips-paper-downloader.jar
 
 1. Run the program.
 2. Select option 3.
-3. Enter the URL of the paper (e.g., https://papers.nips.cc/paper/2020/hash/example-hash).
+3. Enter the URL of the paper (e.g., https://papers.nips.cc/paper_files/paper/2023/hash/0001ca33ba34ce0351e4612b744b3936-Abstract-Conference.html).
 4. The program will download the paper.
 
 ### Fetch Bibtex Information
 
 1. Run the program.
 2. Select option 4.
-3. Enter the URL of the paper (e.g., https://papers.nips.cc/paper/2020/hash/example-hash).
+3. Enter the URL of the paper (e.g., https://papers.nips.cc/paper_files/paper/2023/hash/0001ca33ba34ce0351e4612b744b3936-Abstract-Conference.html).
 4. The program will fetch and display the Bibtex information.
 
 ## Notes
